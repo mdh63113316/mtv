@@ -11,6 +11,12 @@
             "type": 0,
             "url": "./lives/live.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
+        },
+        {
+            "name": "电视直播1",
+            "type": 0,
+            "url": "./lives/live1.txt",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
         }
     ],
     "sites": [

@@ -1,2 +1,2 @@
-# mtv
+# https://gh-proxy.org/https://github.com/mdh63113316/mtv/blob/main/mtv.json
 # https://gh-proxy.com/

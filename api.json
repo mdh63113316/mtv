@@ -4,31 +4,31 @@
     "wallpaper": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/t/",
     "logo": "https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
     "spider": "./spider.jar",
-    "warningText": "an装🅱na提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
+    "warningText": "接口软件永远免费",
     "lives": [
         {
-            "name": "an装🅱na",
+            "name": "电视直播",
             "type": 0,
-            "url": "./lives/an装🅱na.txt",
+            "url": "./lives/live.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
         }
     ],
     "sites": [
         {
-            "key": "豆瓣2",
-            "name": "📢天作孽，犹可违，自作孽，不可活。——《尚书》",
+            "key": "帅哥豆瓣2",
+            "name": "豆瓣2",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
-            "key": "豆瓣1",
-            "name": "📢公告❤更新11.27❤",
+            "key": "王师傅豆瓣1",
+            "name": "豆瓣1",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 1,
             "jar": "./jars/豆瓣1.jar",
-            "ext": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/公告?b=an装🅱na"
+            "ext": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/公告?b="
         },
         {
             "key": "config",

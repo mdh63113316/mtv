@@ -15,15 +15,15 @@
     ],
     "sites": [
         {
-            "key": "帅哥豆瓣2",
-            "name": "豆瓣2",
+            "key": "豆瓣2",
+            "name": "帅哥豆瓣2",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
-            "key": "王师傅豆瓣1",
-            "name": "豆瓣1",
+            "key": "豆瓣1",
+            "name": "王师傅豆瓣1",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 1,

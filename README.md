@@ -6,4 +6,6 @@ https://github.com/Guovin/iptv-api
 
 https://ogogogg.v.nxog.top/apia.php?id=1
 
+https://www.juwanhezi.com/
+
 gate2.ipweb.cc:7778:B_55088_JP___90_9IVSyfJ1:J&sE)7Pz

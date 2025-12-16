@@ -13,27 +13,10 @@
   ],
   "lives": [
     {
-      "group": "CCTV",
-      "channels": [
-        {
-          "name": "CCTV1",
-          "urls": [
-            "http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV2",
-          "urls": [
-            "http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV6",
-          "urls": [
-            "http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8"
-          ]
-        }
-      ]
+        "name": "电视直播",
+        "type": 0,
+        "url": "./lives/live.txt",
+        "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
     }
   ],
   "parses": [

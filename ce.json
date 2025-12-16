@@ -13,12 +13,12 @@
   ],
   "lives": [
     {
-      "group": "自定义",
+      "group": "CCTV",
       "channels": [
         {
-          "name": "直播源",
+          "name": "CCTV6",
           "urls": [
-            "about:blank"
+            "http://m.061899.xyz/mg/cctv6"
           ]
         }
       ]

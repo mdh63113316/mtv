@@ -1,11 +1,21 @@
 {
   "sites": [
     {
-      "key": "360资源站",
-      "name": "360资源站",
+      "key": "梁松华",
+      "name": "梁松华",
       "type": 1,
       "api": "https://360zyzz.com/api.php/provide/vod",
       "playUrl": "https://www.360jiexi.com/player/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "梁哥误我",
+      "name": "梁哥误我",
+      "type": 1,
+      "api": "https://91jpzyw.com/api.php/provide/vod/at/json",
+      "playUrl": "https://91jpplayer.top/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

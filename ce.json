@@ -1,8 +1,8 @@
 {
   "sites": [
     {
-      "key": "梁松华",
-      "name": "梁松华",
+      "key": "360影视",
+      "name": "306影视",
       "type": 1,
       "api": "https://360zyzz.com/api.php/provide/vod",
       "playUrl": "https://www.360jiexi.com/player/?url=",
@@ -11,8 +11,8 @@
       "filterable": 1
     },
     {
-      "key": "梁哥误我",
-      "name": "梁哥误我",
+      "key": "L哥误我",
+      "name": "L哥误我",
       "type": 1,
       "api": "https://91jpzyw.com/api.php/provide/vod/at/json",
       "playUrl": "https://91jpplayer.top/?url=",

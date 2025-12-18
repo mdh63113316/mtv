@@ -3,7 +3,7 @@
     {
       "key": "量子",
       "name": "量子",
-      "type": 1,
+      "type": 0,//0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "playUrl": "https://lziplayer.com/?url=",
       "searchable": 1,

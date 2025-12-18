@@ -1,6 +1,16 @@
 {
   "sites": [
     {
+      "key": "量子",
+      "name": "量子",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": "https://lziplayer.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "茅台影视",
       "name": "茅台影视",
       "type": 1,
@@ -52,6 +62,11 @@
   "parses": [
     {
       "name": "解析1",
+      "type": 0,
+      "url": "https://lziplayer.com/?url="
+    },
+    {
+      "name": "解析2",
       "type": 0,
       "url": "https://bofang2.360jiexi.com/?url="
     }

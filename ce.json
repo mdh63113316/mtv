@@ -1,11 +1,31 @@
 {
   "sites": [
     {
-      "key": "360影视",
-      "name": "306影视",
+      "key": "茅台影视",
+      "name": "茅台影视",
       "type": 1,
-      "api": "https://360zyzz.com/api.php/provide/vod",
-      "playUrl": "https://www.360jiexi.com/player/?url=",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+      "playUrl": "https://mtjiexi.cc:966/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "极速影视",
+      "name": "极速影视",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "playUrl": "https://jsjiexi.com/play/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "playUrl": "https://www.dbjiexi.com:966/jx/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

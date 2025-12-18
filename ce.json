@@ -4,7 +4,7 @@
       "key": "量子",
       "name": "量子",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/josn/",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/json/",
       "playUrl": "https://lziplayer.com/?url=",
       "searchable": 1,
       "quickSearch": 1,

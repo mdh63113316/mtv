@@ -1,6 +1,16 @@
 {
   "sites": [
     {
+      "key": "量子影视",
+      "name": "量子影视",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://lziplayer.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "U库影视",
       "name": "U库影视",
       "type": 1,

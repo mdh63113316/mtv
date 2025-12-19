@@ -1,5 +1,15 @@
 {
   "sites": [
+     {
+      "key": "速播影视",
+      "name": "速播影视",
+      "type": 1,
+      "api": "https://subocj.com/api.php/provide/vod/from/subm3u8/at/json",
+      "playUrl": "https://subojiexi.com/play/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "量子影视",
       "name": "量子影视",

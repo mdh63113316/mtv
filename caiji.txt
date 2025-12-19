@@ -392,10 +392,6 @@ movcms官网 https://www.movcms.com/
 晴天cms http://www.qingtiancms.com/movie/
 其他相关
 影视爱好者导航：https://nav.sbkko.com/favorites/shipinyinpin
-必备采集插件⑴：https://www.ayuancms.com/
-必备采集插件⑵：http://isryun.com/index.php/2019/08/12/308.html
-资讯采集接口:http://mbaijx.com/api.php/provide/art/?ac=list
-电视直播：http://ivi.bupt.edu.cn/
 
 VIP解析接口
 http://api.zncss.com/?url= 高清
@@ -573,7 +569,6 @@ ok资源              http://www.haozy.cc （可采集下载）
 
 优果资源站 https://ugirl6.com/help/#（达到一定ip会送现金）
 
-电视直播：http://ivi.bupt.edu.cn/
 
 官方资源
 8090资源        http://zy.yilans.net:8090/help

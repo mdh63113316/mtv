@@ -69,6 +69,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "L误我",
+      "name": "L误我",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://aosikazy11.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [

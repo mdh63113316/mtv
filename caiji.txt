@@ -99,8 +99,3 @@ https://py.ha12.xyz/sos/index.php?url=
 http://www.ppvod.net 飞飞CMS
 https://www.seacms.net/index.php 海洋CMS
 https://niuniucms.com/牛牛cms
-https://github.com/magicblack/maccms_down/archive/master.zip 苹果cms
-https://github.com/magicblack  苹果cms在Git
-https://www.lanzous.com/u/magicblack 苹果cms官方蓝奏网盘
-https://www.showdoc.com.cn/mytheme?page_id=2779989134071820 苹果cms使用手册ShowDoc
-http://www.maccms.cn/ 苹果CMS

@@ -69,7 +69,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }
+    },
+    {
+        "key": "奥斯卡",
+        "name": "奥斯卡",
+        "type": 1,
+        "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+        "playUrl": "https://aosikazy11.com/?url=",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+      },
+      {
+          "key": "大地资源",
+          "name": "大地资源",
+          "type": 1,
+          "api": "https://dadiapi.com/api.php",
+          "playUrl": "https://ddddjx.com/watch?url=",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
+      }
   ],
   "lives": [
     {

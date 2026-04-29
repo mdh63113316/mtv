@@ -1,0 +1,129 @@
+{
+  "spider": "",
+  "wallpaper": "https://bing.img.run/rand.php",
+  "lives": [
+    {
+      "name": "央视",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/cctv.m3u",
+      "playerType": 2,
+      "epg": ""
+    },
+    {
+      "name": "卫视",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/weishi.m3u",
+      "playerType": 2,
+      "epg": ""
+    },
+    {
+      "name": "地方台",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/difang.m3u",
+      "playerType": 2,
+      "epg": ""
+    },
+    {
+      "name": "体育",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/tiyu.m3u",
+      "playerType": 2,
+      "epg": ""
+    },
+    {
+      "name": "综合备用",
+      "type": 0,
+      "url": "http://tv.shuiluobo.sbs/live.m3u",
+      "playerType": 2,
+      "epg": "http://tv.shuiluobo.sbs/live.m3u"
+    }
+  ],
+  "sites": [
+    {
+      "key": "ffzy",
+      "name": "🍃非凡影视",
+      "type": 1,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "",
+      "ext": ""
+    },
+    {
+      "key": "yhdm",
+      "name": "🌸樱花动漫",
+      "type": 1,
+      "api": "https://api.yhdm.io/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "",
+      "ext": ""
+    },
+    {
+      "key": "czzy",
+      "name": "🎬厂长资源",
+      "type": 1,
+      "api": "https://api.czspp.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "",
+      "ext": ""
+    },
+    {
+      "key": "tkzy",
+      "name": "🌤天空资源",
+      "type": 1,
+      "api": "https://api.tkzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "",
+      "ext": ""
+    },
+    {
+      "key": "bcyy",
+      "name": "🎥百草园",
+      "type": 1,
+      "api": "https://api.bcyyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "",
+      "ext": ""
+    },
+    {
+      "key": "xby",
+      "name": "📺小白云",
+      "type": 1,
+      "api": "https://api.xbyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "",
+      "ext": ""
+    }
+  ],
+  "parses": [
+    {
+      "name": "通用解析",
+      "type": 1,
+      "url": "https://jx.xyflv.cc/?url="
+    },
+    {
+      "name": "备用解析",
+      "type": 1,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    }
+  ],
+  "doh": "https://dns.google/dns-query",
+  "rules": [],
+  "hosts": "",
+  "flags": [
+    "youku",
+    "iqiyi",
+    "qq"
+  ]
+}
